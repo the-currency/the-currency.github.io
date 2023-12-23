@@ -1,0 +1,25 @@
+{
+  "name": "thecurrency",
+  "version": "1.0.0",
+  "description": "The only currency",
+  "main": "index.js",
+  "dependencies": {
+    "gh-pages": "^6.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/the-currency/thecurrency.git"
+  },
+  "author": "Abrar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/the-currency/thecurrency/issues"
+  },
+  "homepage": "https://the-currency.github.io/the-currency.github.io"
+}
