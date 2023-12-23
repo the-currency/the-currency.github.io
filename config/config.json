@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x4b1f94B3263CBaE7a965f4d515c51646D4284424",
+  "SCAN_LINK": "https://polygonscan.com/address/0x4b1f94b3263cbae7a965f4d515c51646d4284424",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Genius Denizen",
+  "SYMBOL": "GD",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 0,
+  "DISPLAY_COST": 0,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/GeniusThrong",
+  "SHOW_BACKGROUND": true
+}

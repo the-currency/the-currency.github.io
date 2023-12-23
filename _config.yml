@@ -1,0 +1,14 @@
+url: https://geniusthrong.github.io
+baseurl: /
+
+# Site Settings
+title: GeniusThrong
+description: "Believe in Genius Supremacy ! Be Genius in your own way Rawrrrrrr !"
+keywords: "GeniusThrong, Website"
+google-tracking-id:
+
+# Career Settings
+# Default career thumbnail image.
+career-img: "img/timeline/End.png"
+
+exclude: ["Rakefile", "LICENSE", "readme.markdown"]

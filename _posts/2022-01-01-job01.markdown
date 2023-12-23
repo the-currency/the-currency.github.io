@@ -1,0 +1,15 @@
+---
+layout: null
+title: Phase G
+subtitle:
+image: "img/timeline/King.png"
+---
+
+Brainstorming ideas and NFT Market Research.
+
+Knowing our Audiences & their interests.
+
+Building The Genius Club Community through socials.
+
+Creating the base & first prototype for our launch.
+
