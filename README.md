@@ -1,2 +1,2 @@
 # thecurrency
-The Only Currency
+The Only Currency Fr
