@@ -167,7 +167,7 @@ a:focus {
 
 @media (min-width: 767px) {
   .intro {
-    background: url(../img/Banner.png) no-repeat bottom center scroll;
+    background: url(../img/currencyBanner.png) no-repeat bottom center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -451,4 +451,5 @@ body {
   background: #0d0d0d;
   box-shadow: rgba(255, 143, 0, 0.25) 0px 54px 55px, rgba(253, 130, 0, 0.12) 0px -12px 30px, rgba(255, 179, 0, 0.12) 0px 4px 6px, rgba(255, 167, 0, 0.17) 0px 12px 13px, rgba(255, 167, 0, 0.09) 0px -3px 5px;
   padding: 4% 1%;
+  margin: 5%;
 }
