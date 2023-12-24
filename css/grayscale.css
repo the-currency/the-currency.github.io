@@ -312,38 +312,39 @@ a:focus {
   margin-left: 5%;
 }
 
-#dapp {
-  color: black;
+#buyNow {
+  color: white;
   font-weight: 600;
-  border: 1px solid #c8fd2b;
+  border: 1px solid #FFD700;
   border-radius: 20px !important;
-  background-image: linear-gradient(to right,
-      #fec503 0%,
-      #bfff00 51%,
-      #fbc805 100%);
+  background-image: linear-gradient(to right, #000 0%, #353434 51%, #030303 100%);
   transition: 0.5s;
   background-size: 200% auto;
+  scale: 1.2;
+  padding: 0.8% 2%;
 }
 
-#dapp:hover {
+#buyNow:hover {
   background-position: right center;
 
 }
 
-#discord {
+#twitter {
   color: white;
   font-weight: 600;
-  border: 1px solid #6A77FD;
+  border: 1px solid #FFD700;
   border-radius: 20px !important;
   background-image: linear-gradient(to right,
-      #5865F2 0%,
-      #828CFB 51%,
-      #6A77FD 100%);
+      #000 0%,
+      #353434 51%,
+      #030303 100%);
   transition: 0.5s;
   background-size: 200% auto;
+  scale: 1.2;
+  margin-right: 5%;
 }
 
-#discord:hover {
+#twitter:hover {
   background-position: right center;
 
 }
