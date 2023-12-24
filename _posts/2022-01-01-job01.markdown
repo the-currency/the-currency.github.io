@@ -1,8 +1,8 @@
 ---
 layout: null
-title: Phase G
+title: Phase 1
 subtitle:
-image: "img/timeline/King.png"
+image: "img/timeline/One.png"
 ---
 
 Brainstorming ideas and NFT Market Research.

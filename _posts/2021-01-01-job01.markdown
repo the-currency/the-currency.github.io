@@ -1,8 +1,8 @@
 ---
 layout: null
-title: Phase E
+title: Phase 2
 subtitle:
-image: "img/timeline/Diva.png"
+image: "img/timeline/Two.png"
 ---
 
 Entering the Web3 with a Bang !
