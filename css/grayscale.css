@@ -69,10 +69,12 @@ a:focus {
   font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
   background-color: #000;
 }
-.navbar-brand > img {
+
+.navbar-brand>img {
   max-height: 3rem;
   display: inline;
 }
+
 .navbar-custom .navbar-brand {
   font-weight: 700;
 }
@@ -315,19 +317,17 @@ a:focus {
   font-weight: 600;
   border: 1px solid #c8fd2b;
   border-radius: 20px !important;
-  background-image: linear-gradient(
-    to right,
-    #fec503 0%,
-    #bfff00 51%,
-    #fbc805 100%
-  );
+  background-image: linear-gradient(to right,
+      #fec503 0%,
+      #bfff00 51%,
+      #fbc805 100%);
   transition: 0.5s;
   background-size: 200% auto;
 }
 
 #dapp:hover {
   background-position: right center;
- 
+
 }
 
 #discord {
@@ -335,23 +335,21 @@ a:focus {
   font-weight: 600;
   border: 1px solid #6A77FD;
   border-radius: 20px !important;
-  background-image: linear-gradient(
-    to right,
-    #5865F2 0%,
-    #828CFB 51%,
-    #6A77FD 100%
-  );
+  background-image: linear-gradient(to right,
+      #5865F2 0%,
+      #828CFB 51%,
+      #6A77FD 100%);
   transition: 0.5s;
   background-size: 200% auto;
 }
 
 #discord:hover {
   background-position: right center;
- 
+
 }
 
 .widgetBody-1YvOmj {
-display:none !important;
+  display: none !important;
 }
 
 .btn-default {
@@ -447,4 +445,10 @@ img::-moz-selection {
 
 body {
   webkit-tap-highlight-color: rgba(255, 255, 255, 0.2);
+}
+
+#About .row div {
+  background: #0d0d0d;
+  box-shadow: rgba(255, 143, 0, 0.25) 0px 54px 55px, rgba(253, 130, 0, 0.12) 0px -12px 30px, rgba(255, 179, 0, 0.12) 0px 4px 6px, rgba(255, 167, 0, 0.17) 0px 12px 13px, rgba(255, 167, 0, 0.09) 0px -3px 5px;
+  padding: 4% 1%;
 }
