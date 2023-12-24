@@ -1,12 +1,12 @@
 :root {
-  --primary: #fec503;
-  --border:#c8fd2b;
-  --box-bg:#171615;
+  --primary: #C8FD2B;
+  --border: #c8fd2b;
+  --box-bg: #171615;
   --primary-text: #1a1a1a;
   --secondary: #c8fd2b;
   --secondary-text: #ffffff;
   --accent: #171615;
   --accent-text: #ffffff;
-  --btn-text:#000000;
-  --footer-text:#c8fd2b;
+  --btn-text: #000000;
+  --footer-text: #c8fd2b;
 }
