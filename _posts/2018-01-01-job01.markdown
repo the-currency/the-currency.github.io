@@ -2,7 +2,7 @@
 layout: null
 title: Phase 5
 subtitle:
-image: "img/timeline/Tripper.png"
+image: "img/timeline/Five.png"
 ---
 
 Creating and gifting Genius Merchandises free and at offers to the OG Genius.

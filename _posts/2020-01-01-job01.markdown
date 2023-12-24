@@ -2,7 +2,7 @@
 layout: null
 title: Phase 3
 subtitle:
-image: "img/timeline/Zombie.png"
+image: "img/timeline/Three.png"
 ---
 
 Launching the evolved Genius collection & Official Discord

@@ -2,7 +2,7 @@
 layout: null
 title: Phase 4
 subtitle:
-image: "img/timeline/Astronaut.png"
+image: "img/timeline/Four.png"
 ---
 
 Mega Giveaway event on sales of 10k NFTS

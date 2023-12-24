@@ -144,7 +144,7 @@ a:focus {
   padding: 100px 0;
   text-align: center;
   color: #fff;
-  background: url(../img/Banner-alt.png) no-repeat bottom center scroll;
+  background: url(../img/currencyBanner.png) no-repeat bottom center scroll;
   background-color: #000;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -321,7 +321,6 @@ a:focus {
   transition: 0.5s;
   background-size: 200% auto;
   scale: 1.2;
-  padding: 0.8% 2%;
 }
 
 #buyNow:hover {
@@ -447,7 +446,13 @@ body {
 
 .about-section {
   background: #0d0d0d;
-  box-shadow: rgba(255, 143, 0, 0.25) 0px 54px 55px, rgba(253, 130, 0, 0.12) 0px -12px 30px, rgba(255, 179, 0, 0.12) 0px 4px 6px, rgba(255, 167, 0, 0.17) 0px 12px 13px, rgba(255, 167, 0, 0.09) 0px -3px 5px;
-  padding: 4% 1%;
+  box-shadow: rgba(255, 143, 0, 0.25) 0px 15px 55px, rgba(253, 130, 0, 0.12) 0px -12px 30px, rgba(255, 179, 0, 0.12) 0px 4px 6px, rgba(255, 167, 0, 0.17) 0px 12px 13px, rgba(255, 167, 0, 0.09) 0px -3px 5px;
+  padding: 4% 2%;
   margin-bottom: 10%;
+  border-radius: 5%;
+}
+
+.banner-text,
+.page-scroll {
+  font-weight: 700;
 }
