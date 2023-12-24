@@ -471,36 +471,24 @@ body {
 /*Tokenomics*/
 
 .leaderboard {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  width: 285px;
-  height: 308px;
+  position: relative;
+  width: 75%;
+  height: 100%;
   background: linear-gradient(to bottom, #3a404d, #181c26);
   border-radius: 10px;
   box-shadow: 0 7px 30px rgba(62, 9, 11, .3);
+  margin: 0 auto;
 
   h1 {
     font-size: 18px;
     color: #e1e1e1;
     padding: 12px 13px 18px;
-
-    & svg {
-      width: 25px;
-      height: 26px;
-      position: relative;
-      top: 3px;
-      margin-right: 6px;
-      vertical-align: baseline;
-    }
-
   }
 
   ol {
     counter-reset: leaderboard;
 
-    li {
+    li.token {
       position: relative;
       z-index: 1;
       font-size: 14px;
@@ -670,7 +658,7 @@ body {
 
     }
 
-    li:hover {
+    li.token:hover {
       z-index: 2;
       overflow: visible;
 
@@ -689,23 +677,5 @@ body {
       }
     }
 
-  }
-}
-
-* {
-  /*display: none;*/
-}
-
-.the-most {
-  position: fixed;
-  z-index: 1;
-  bottom: 0;
-  left: 0;
-  width: 50vw;
-  max-width: 200px;
-  padding: 10px;
-
-  img {
-    max-width: 100%;
   }
 }
