@@ -472,7 +472,7 @@ body {
 
 .leaderboard {
   position: relative;
-  width: 75%;
+  width: 85%;
   height: 100%;
   background: #0d0d0d;
   border-radius: 10px;
@@ -482,12 +482,6 @@ body {
     rgba(255, 167, 0, 0.17) 0px 12px 13px,
     rgba(255, 167, 0, 0.09) 0px -3px 5px;
   margin: 0 auto;
-
-  h1 {
-    font-size: 18px;
-    color: #e1e1e1;
-    padding: 12px 13px 18px;
-  }
 
   ol {
     counter-reset: leaderboard;
@@ -513,7 +507,7 @@ body {
         width: 20px;
         height: 20px;
         line-height: 20px;
-        color: #c24448;
+        color: #FFD700;
         background: #fff;
         border-radius: 20px;
         text-align: center;
@@ -538,7 +532,7 @@ body {
           z-index: 1;
           bottom: -11px;
           left: -9px;
-          border-top: 10px solid #c24448;
+          border-top: 10px solid #FFD700;
           border-left: 10px solid transparent;
           transition: all .1s ease-in-out;
           opacity: 0;
@@ -567,7 +561,7 @@ body {
         left: 0;
         width: 100%;
         height: 100%;
-        background: #fa6855;
+        background: #FFE660;
         box-shadow: 0 3px 0 rgba(0, 0, 0, .08);
         /*transform: scaleX(1.06) scaleY(1.03);*/
         transition: all .3s ease-in-out;
@@ -575,18 +569,18 @@ body {
       }
 
       &:nth-child(1) {
-        background: #fa6855;
+        background: #FFE660;
 
         &::after {
-          background: #fa6855;
+          background: #FFE660;
         }
       }
 
       &:nth-child(2) {
-        background: #e0574f;
+        background: #F9E05B;
 
         &::after {
-          background: #e0574f;
+          background: #F9E05B;
           box-shadow: 0 2px 0 rgba(0, 0, 0, .08);
         }
 
@@ -601,10 +595,10 @@ body {
       }
 
       &:nth-child(3) {
-        background: #d7514d;
+        background: #FFE03A;
 
         &::after {
-          background: #d7514d;
+          background: #FFE03A;
           box-shadow: 0 1px 0 rgba(0, 0, 0, .11);
         }
 
@@ -619,10 +613,10 @@ body {
       }
 
       &:nth-child(4) {
-        background: #cd4b4b;
+        background: #F9D71F;
 
         &::after {
-          background: #cd4b4b;
+          background: #F9D71F;
           box-shadow: 0 -1px 0 rgba(0, 0, 0, .15);
         }
 
@@ -640,11 +634,11 @@ body {
       }
 
       &:nth-child(5) {
-        background: #c24448;
+        background: #FFD700;
         border-radius: 0 0 10px 10px;
 
         &::after {
-          background: #c24448;
+          background: #FFD700;
           box-shadow: 0 -2.5px 0 rgba(0, 0, 0, .12);
           border-radius: 0 0 10px 10px;
         }
