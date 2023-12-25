@@ -542,8 +542,6 @@ body {
           z-index: 1;
           bottom: -11px;
           left: -9px;
-          border-top: 10px solid #FFD700;
-          border-left: 10px solid transparent;
           transition: all .1s ease-in-out;
           opacity: 0;
         }
@@ -551,8 +549,6 @@ body {
         &::after {
           left: auto;
           right: -9px;
-          border-left: none;
-          border-right: 10px solid transparent;
         }
       }
 
@@ -594,15 +590,6 @@ body {
           background: #F9E05B;
           box-shadow: 0 2px 0 rgba(0, 0, 0, .08);
         }
-
-        & mark {
-
-          &::before,
-          &::after {
-            border-top: 6px solid #ba4741;
-            bottom: -7px;
-          }
-        }
       }
 
       &:nth-child(3) {
@@ -612,15 +599,6 @@ body {
           background: #FFE03A;
           box-shadow: 0 1px 0 rgba(0, 0, 0, .11);
         }
-
-        & mark {
-
-          &::before,
-          &::after {
-            border-top: 2px solid #b0433f;
-            bottom: -3px;
-          }
-        }
       }
 
       &:nth-child(4) {
@@ -629,18 +607,6 @@ body {
         &::after {
           background: #F9D71F;
           box-shadow: 0 -1px 0 rgba(0, 0, 0, .15);
-        }
-
-        & mark {
-
-          &::before,
-          &::after {
-            top: -7px;
-            bottom: auto;
-            border-top: none;
-            border-bottom: 6px solid #a63d3d;
-            ;
-          }
         }
       }
 
@@ -652,17 +618,6 @@ body {
           background: #FFD700;
           box-shadow: 0 -2.5px 0 rgba(0, 0, 0, .12);
           border-radius: 0 0 10px 10px;
-        }
-
-        & mark {
-
-          &::before,
-          &::after {
-            top: -9px;
-            bottom: auto;
-            border-top: none;
-            border-bottom: 8px solid #993639;
-          }
         }
       }
 
@@ -705,5 +660,5 @@ ol li.token::marker {
 
 .about-text-end,
 .about-text {
-  font-size: 1.5rem;
+  font-size: 2rem;
 }
