@@ -599,7 +599,7 @@ body {
 
           &::before,
           &::after {
-            border-top: 6px solid #FFE03A;
+            border-top: 6px solid #ba4741;
             bottom: -7px;
           }
         }
@@ -617,7 +617,7 @@ body {
 
           &::before,
           &::after {
-            border-top: 2px solid #F9D71F;
+            border-top: 2px solid #b0433f;
             bottom: -3px;
           }
         }
@@ -638,7 +638,7 @@ body {
             top: -7px;
             bottom: auto;
             border-top: none;
-            border-bottom: 6px solid #F9D71F;
+            border-bottom: 6px solid #a63d3d;
             ;
           }
         }
@@ -661,7 +661,7 @@ body {
             top: -9px;
             bottom: auto;
             border-top: none;
-            border-bottom: 8px solid #e8c500;
+            border-bottom: 8px solid #993639;
           }
         }
       }
