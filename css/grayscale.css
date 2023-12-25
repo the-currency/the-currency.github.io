@@ -679,3 +679,7 @@ ol li.token::marker {
   color: gold;
   word-break: break-all;
 }
+
+.tokenomics-end {
+  padding-top: 30px;
+}
