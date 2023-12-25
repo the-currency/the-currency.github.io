@@ -5,11 +5,9 @@ subtitle:
 image: "img/timeline/One.png"
 ---
 
-Brainstorming ideas and NFT Market Research.
+Brainstorming ideas and Solana Market Research.
 
-Knowing our Audiences & their interests.
+Creating the base for our launch.
 
-Building The Genius Club Community through socials.
-
-Creating the base & first prototype for our launch.
+Building The Currency Community through socials.
 

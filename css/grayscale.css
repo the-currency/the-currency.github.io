@@ -662,3 +662,10 @@ ol li.token::marker {
 .about-text {
   font-size: 2rem;
 }
+
+.disclaimer {
+  max-width: 80%;
+  margin: 0 auto;
+  text-align: center;
+  color: gray;
+}

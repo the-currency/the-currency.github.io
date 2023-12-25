@@ -5,10 +5,6 @@ subtitle:
 image: "img/timeline/Two.png"
 ---
 
-Entering the Web3 with a Bang !
+Entering the Solana Blockchain with a Bang !
 
-Listing of limited Genius Scouters on the Ethereum Blockchain.
-
-Public sales of limited Genius Red Cat Scouters at a very discounted price.
-
-Free 10K Genius Denizens NFTs Mega Giveaway! 
+Listing of tokens on Radiyum.
