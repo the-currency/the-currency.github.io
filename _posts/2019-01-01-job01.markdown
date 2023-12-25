@@ -5,6 +5,6 @@ subtitle:
 image: "img/timeline/Four.png"
 ---
 
-100 Million Market Cap
+100 Million Market Cap.
 
-Listing on CoinMarketCap
+Listing on CoinMarketCap.

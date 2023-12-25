@@ -5,6 +5,6 @@ subtitle:
 image: "img/timeline/Three.png"
 ---
 
-Listing on CoinGecko, Jupiter
+Listing on CoinGecko, Jupiter.
 
-Airdrop to our early contributers 
+Airdrop to our early contributers. 

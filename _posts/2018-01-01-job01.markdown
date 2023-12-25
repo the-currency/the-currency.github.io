@@ -5,6 +5,6 @@ subtitle:
 image: "img/timeline/Five.png"
 ---
 
-Listing on CEX
+Listing on CEX.
 
 Community driven Utility development & airdrops events.
