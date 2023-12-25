@@ -669,3 +669,12 @@ ol li.token::marker {
   text-align: center;
   color: gray;
 }
+
+.token-address {
+  margin-top: 5%;
+  font-weight: 700;
+}
+
+.address {
+  color: gold;
+}
