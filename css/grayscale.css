@@ -677,4 +677,5 @@ ol li.token::marker {
 
 .address {
   color: gold;
+  word-break: break-all;
 }
